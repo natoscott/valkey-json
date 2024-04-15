@@ -14,9 +14,7 @@ The source code is available at: https://github.com/valkey-io/valkey-json
 ## Quickstart
 
 1.  [Launch ValkeyJSON with Docker](#launch-valkeyjson-with-docker)
-1.  [Use it from **any** Valkey client](#using-valkeyjson), e.g.:
-
-![ValkeyJSON with `valkey-cli`](images/demo.gif)
+2.  [Use it from **any** Valkey client](#using-valkeyjson)
 
 Alternatively, you can also build and load the module yourself. [Build and Load the ValkeyJSON module library](#building-and-loading-the-module)
 
@@ -32,7 +30,7 @@ docker run -p 6379:6379 --name valkey-json valkey-io/valkey-json:latest
 Before using ValkeyJSON, you should familiarize yourself with its commands and syntax as detailed in the [commands reference](commands.md) document. However, to quickly get started just review this section and get:
 
 1.  A Valkey server running the module (see [building](#building-the-module-library) and [loading](#loading-the-module-to-Valkey) for instructions)
-1.  Any [Valkey](http://valkey.io/clients) or [ValkeyJSON client](#client-libraries)
+2.  Any [Valkey](http://valkey.io/clients) or [ValkeyJSON client](#client-libraries)
 
 ### With `valkey-cli`
 

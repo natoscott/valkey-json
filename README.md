@@ -12,9 +12,7 @@ Primary features:
 ## Quickstart
 
 1.  [Launch ValkeyJSON with Docker](https://valkey-io.github.io/valkey-json/#launch-valkeyjson-with-docker)
-1.  [Use ValkeyJSON from a Valkey client](https://valkey-io/valkey-json/#using-valkeyjson), e.g.:
-
-![ValkeyJSON with `valkey-cli`](docs/images/demo.gif)
+2.  [Use ValkeyJSON from a Valkey client](https://valkey-io/valkey-json/#using-valkeyjson)
 
 ## Documentation
 
